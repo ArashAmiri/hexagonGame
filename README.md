@@ -1,2 +1,0 @@
-# hexagonGame
-Created with CodeSandbox
